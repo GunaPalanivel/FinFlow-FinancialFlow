@@ -8,30 +8,35 @@ Fin Flow offers a modern solution for users to manage their finances efficiently
 
 ## Tech Stack
 
-| Technology                                          | Description                                                                                           |
-| --------------------------------------------------- | ----------------------------------------------------------------------------------------------------- |
-| [**Next.js**](https://nextjs.org/)                  | Provides server-side rendering for enhanced performance and SEO optimization.                         |
-| [**TypeScript**](https://www.typescriptlang.org/)   | Ensures type safety and code reliability throughout the development process.                          |
-| [**Appwrite**](https://appwrite.io/)                | Enables secure user authentication and data management for the platform.                              |
-| [**Plaid**](https://plaid.com/)                     | Facilitates seamless integration with multiple bank accounts, ensuring real-time transaction updates. |
-| [**Dwolla**](https://www.dwolla.com/)               | Powers fund transfer functionalities, allowing users to securely transfer funds to other accounts.    |
-| [**React Hook Form**](https://react-hook-form.com/) | Offers a robust solution for form management, enhancing user interaction.                             |
-| [**Zod**](https://zod.dev/)                         | Provides schema validation for data integrity and security.                                           |
-| [**TailwindCSS**](https://tailwindcss.com/)         | Enhances UI design with modern styling and responsiveness.                                            |
-| [**Chart.js**](https://www.chartjs.org/)            | Enables visualization of financial data for better insights.                                          |
-| [**ShadCN**](https://ui.shadcn.com/)                | Offers UI components for building a sleek and user-friendly interface.                                |
+- [**Next.js**:](https://nextjs.org/)
+  Provides server-side rendering for enhanced performance and SEO optimization.
 
-|--------------------|---------------------------------------------------------------------------------------------------------------|
-| **Next.js**: | Provides server-side rendering for enhanced performance and SEO optimization. |
-| **TypeScript**: | Ensures type safety and code reliability throughout the development process. |
-| **Appwrite**: | Enables secure user authentication and data management for the platform. |
-| **Plaid**: | Facilitates seamless integration with multiple bank accounts, ensuring real-time transaction updates. |
-| **Dwolla**: | Powers fund transfer functionalities, allowing users to securely transfer funds to other accounts. |
-| **React Hook Form**: | Offers a robust solution for form management, enhancing user interaction. |
-| **Zod**: | Provides schema validation for data integrity and security. |
-| **TailwindCSS**: | Enhances UI design with modern styling and responsiveness. |
-| **Chart.js**: | Enables visualization of financial data for better insights. |
-| **ShadCN**: | Offers UI components for building a sleek and user-friendly interface. |
+- [**TypeScript**:](https://www.typescriptlang.org/)
+  Ensures type safety and code reliability throughout the development process.
+
+- [**Appwrite**:](https://appwrite.io/)
+  Enables secure user authentication and data management for the platform.
+
+- [**Plaid**:](https://plaid.com/)
+  Facilitates seamless integration with multiple bank accounts, ensuring real-time transaction updates.
+
+- [**Dwolla**:](https://www.dwolla.com/)
+  Powers fund transfer functionalities, allowing users to securely transfer funds to other accounts.
+
+- [**React Hook Form**:](https://react-hook-form.com/)
+  Offers a robust solution for form management, enhancing user interaction.
+
+- [**Zod**:](https://zod.dev/)
+  Provides schema validation for data integrity and security.
+
+- [**TailwindCSS**:](https://tailwindcss.com/)
+  Enhances UI design with modern styling and responsiveness.
+
+- [**Chart.js**:](https://www.chartjs.org/)
+  Enables visualization of financial data for better insights.
+
+- [**ShadCN**:](https://ui.shadcn.com/)
+  Offers UI components for building a sleek and user-friendly interface.
 
 ## Features
 
