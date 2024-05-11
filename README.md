@@ -139,4 +139,4 @@ This project is licensed under the [MIT License](LICENSE)
 
 ---
 
-#### This project is currently under development, focusing on user account management, payment processing, and financial transactions.
+#### This project is currently under development.
