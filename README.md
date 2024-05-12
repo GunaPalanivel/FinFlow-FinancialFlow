@@ -115,7 +115,7 @@ git clone https://github.com/GunaPalanivel/FinFlow-FinancialFlow.git
 Navigate to the project directory
 
 ```bash
-cd FinFlow-FinancialFlow
+cd finflow-financialflow
 ```
 
 Install the dependencies
