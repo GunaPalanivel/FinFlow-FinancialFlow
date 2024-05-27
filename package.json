@@ -23,6 +23,7 @@
     "lucide-react": "^0.378.0",
     "next": "14.2.3",
     "node-appwrite": "^12.0.1",
+    "palid": "^0.5.2",
     "plaid": "^24.0.0",
     "query-string": "^9.0.0",
     "react": "^18",
