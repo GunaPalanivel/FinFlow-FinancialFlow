@@ -1,6 +1,6 @@
 # Fin Flow - A Fintech Bank Application
 
-![Project Logo](/screenshots/screenshot_dashboard.jpg)
+![Project Logo](/screenshots/Dashboard.jpg)
 
 Fin Flow is a financial SaaS platform developed with Next.js, offering users seamless connectivity to multiple bank accounts, real-time transaction monitoring, fund transfers, and comprehensive financial management capabilities.
 
@@ -227,6 +227,13 @@ Users initiate the fund transfer process by submitting a form, providing the rec
 - Initiates fund transfers securely through Dwolla.
 - Retrieves bank details from the Appwrite Bank Collection.
 - Updates transaction history for transparency and accountability.
+
+## Screenshots
+
+![Project Logo](/screenshots/Dashboard.jpg)
+![Project Logo](/screenshots/My%20Banks.jpg)
+![Project Logo](/screenshots/Payment%20Transfer.jpg)
+![Project Logo](/screenshots/Transaction%20History.jpg)
 
 ## How to Contribute
 
