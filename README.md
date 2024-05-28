@@ -1,5 +1,7 @@
 # Fin Flow - A Fintech Bank Application
 
+![Project Logo](/screenshots/screenshot_dashboard.jpg)
+
 Fin Flow is a financial SaaS platform developed with Next.js, offering users seamless connectivity to multiple bank accounts, real-time transaction monitoring, fund transfers, and comprehensive financial management capabilities.
 
 ## Introduction
@@ -18,13 +20,16 @@ Preliminary rounds will be conducted in respective campuses, and Finals will be 
 
 ## Problem Statement
 
-FINTECH PROBLEM STATEMENTS
+`Problem Statement 6: Seamless Cross-Border Payments`
 
-1. Develop personalized financial assistant powered by AI that helps consumers manage their finances , make payments and suggest budget advice and optimal payment options including flexible payment choices - `Fin Flow based on this problem statement.`
+Objective:
+Build a platform to facilitate fast, low-cost, and secure cross-border payments.
 
-2. Develop an e-cash payment gateway solution for in-game purchases, enabling players to use e-cash to buy virtual goods, items, or upgrades within online games.
-
-3. Develop approaches and frameworks for principle-based digital transaction authentication (alternate for OTP)
+Description:
+Traditional cross-border payment methods are often slow and expensive. Develop a solution
+that uses blockchain or other innovative technologies to enable seamless international money
+transfers with low fees and high security. The platform should ensure compliance with
+international regulations and offer a user-friendly experience. - `Fin Flow based on this problem statement.`
 
 ## Links
 
@@ -35,6 +40,12 @@ FINTECH PROBLEM STATEMENTS
 - [Figma Design](https://www.figma.com/design/j0iEGwY418brI56FRFBpKF/Fin-Flow?node-id=1-1019&t=f58jXFeR8cWOQMEw-1)
 
 - [Figjam Flow Diagram](https://www.figma.com/board/GC5JpNbFHa7gSyyD5I7MRK/Fin-Flow-logical-diagram-flow?node-id=0-1&t=sMwNxjOCCi5qEfd7-1)
+
+## Team Members
+
+- [Guna Palanivel](https://www.linkedin.com/in/guna-palanivel/)
+- [Dinesh Raj](https://www.linkedin.com/in/dinesh-raj-r/)
+- [Rohith Varma](https://www.linkedin.com/in/rohith-varma-b2b006214/)
 
 ## Tech Stack
 

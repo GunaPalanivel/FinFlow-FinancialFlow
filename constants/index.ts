@@ -21,7 +21,7 @@ export const sidebarLinks = [
   },
 ];
 
-// good_user / good_password - Bank of America
+// good_user / good_password - State Bank of India
 export const TEST_USER_ID = "6627ed3d00267aa6fa3e";
 
 // custom_user -> Chase Bank
