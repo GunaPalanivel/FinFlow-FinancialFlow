@@ -4,6 +4,19 @@
 
 Fin Flow is a financial SaaS platform developed with Next.js, offering users seamless connectivity to multiple bank accounts, real-time transaction monitoring, fund transfers, and comprehensive financial management capabilities.
 
+## Table of Contents
+
+- [Introduction](#introduction)
+- [Built for STPI Govt of India SRM FINTECH HACKATHON (May 2024 - June 2024)](#built-for-stpi-govt-of-india-srm-fintech-hackathon-may-2024---june-2024)
+- [Problem Statement](#problem-statement)
+- [Links](#links)
+- [Team Members](#team-members)
+- [Tech Stack](#tech-stack)
+- [Features](#features)
+- [Quick Start](#quick-start)
+- [Screenshots](#screenshots)
+- [Conlusion](#conclusion)
+
 ## Introduction
 
 Fin Flow provides a modern solution for efficient financial management. Leveraging Next.js, TypeScript, and a robust tech stack including Appwrite, Plaid, and Dwolla, Fin Flow ensures secure authentication, seamless bank integration, and intuitive user experience.
@@ -230,10 +243,19 @@ Users initiate the fund transfer process by submitting a form, providing the rec
 
 ## Screenshots
 
-![Project Logo](/screenshots/Dashboard.jpg)
-![Project Logo](/screenshots/My%20Banks.jpg)
-![Project Logo](/screenshots/Payment%20Transfer.jpg)
-![Project Logo](/screenshots/Transaction%20History.jpg)
+Here are some screenshots of the Fin Flow application:
+
+- **Dashboard**: Provides an overview of user accounts, total balance, recent transactions, and spending insights.
+  ![Project Logo](/screenshots/Dashboard.jpg)
+
+- **My Banks**: Displays a list of connected banks with respective balances and account details.
+  ![Project Logo](/screenshots/My%20Banks.jpg)
+
+- **Payment Transfer**: Allows users to transfer funds securely using Dwolla, with required fields and recipient bank ID for smooth transactions.
+  ![Project Logo](/screenshots/Payment%20Transfer.jpg)
+
+- **Transaction History**: Provides pagination and filtering options for viewing transaction history across different banks.
+  ![Project Logo](/screenshots/Transaction%20History.jpg)
 
 ## How to Contribute
 
