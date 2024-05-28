@@ -6,6 +6,36 @@ Fin Flow is a financial SaaS platform developed with Next.js, offering users sea
 
 Fin Flow provides a modern solution for efficient financial management. Leveraging Next.js, TypeScript, and a robust tech stack including Appwrite, Plaid, and Dwolla, Fin Flow ensures secure authentication, seamless bank integration, and intuitive user experience.
 
+## Built for STPI Govt of India SRM FINTECH HACKATHON (May 2024 - June 2024)
+
+It is planned to conduct a SRM Hackathon in the Financial Technologies domain for the students of SRM Group in Collaboration with Software Technology Parks of India, Chennai.
+
+This Hackathon will be Coordinated by Career Centre, SRMIST, School of Computing and SIIC.
+
+There will be Preliminary round followed by Finals.
+
+Preliminary rounds will be conducted in respective campuses, and Finals will be conducted at Kattankulathur campus.
+
+## Problem Statement
+
+FINTECH PROBLEM STATEMENTS
+
+1. Develop personalized financial assistant powered by AI that helps consumers manage their finances , make payments and suggest budget advice and optimal payment options including flexible payment choices - `Fin Flow based on this problem statement.`
+
+2. Develop an e-cash payment gateway solution for in-game purchases, enabling players to use e-cash to buy virtual goods, items, or upgrades within online games.
+
+3. Develop approaches and frameworks for principle-based digital transaction authentication (alternate for OTP)
+
+## Links
+
+- [Project Proposal](https://docs.google.com/document/d/1Kw8WHjGpgzTIlk_jzB6_XWWIZRKouFMY-zMR6uMbd9U/edit?usp=sharing)
+
+- [Project Presentation](https://docs.google.com/presentation/d/1CgVdegk2c3cXJR1jx0TQQSXkpeXsXcxfsibwzXfozXQ/edit?usp=sharing)
+
+- [Figma Design](https://www.figma.com/design/j0iEGwY418brI56FRFBpKF/Fin-Flow?node-id=1-1019&t=f58jXFeR8cWOQMEw-1)
+
+- [Figjam Flow Diagram](https://www.figma.com/board/GC5JpNbFHa7gSyyD5I7MRK/Fin-Flow-logical-diagram-flow?node-id=0-1&t=sMwNxjOCCi5qEfd7-1)
+
 ## Tech Stack
 
 - [**Next.js**:](https://nextjs.org/)
